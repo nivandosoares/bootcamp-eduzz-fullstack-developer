@@ -17,7 +17,7 @@
 
 # Projeto: Jogo da memória Javascript
 
-<p>Screenshot</p>
+
 <img src = "preview.gif">
 
 <a href = "github.com/nivandosoares/javscript-memory-game"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
