@@ -18,7 +18,7 @@
 # Projeto: Jogo da memória Javascript
 
 <p>Screenshot</p>
-<img src = "#">
+<img src = "preview.gif">
 
 <a href = "github.com/nivandosoares/javscript-memory-game">Repositório</a>
 
