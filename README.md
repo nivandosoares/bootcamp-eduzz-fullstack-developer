@@ -20,6 +20,6 @@
 <p>Screenshot</p>
 <img src = "preview.gif">
 
-<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><a href = "github.com/nivandosoares/javscript-memory-game">Repositório</a>
+<a href = "github.com/nivandosoares/javscript-memory-game"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <a href = "javascript-memory-game.vercel.app">Jogue no live preview</a>
