@@ -7,6 +7,7 @@
 <li><a href = "javascript/desafios/distancia.js">Distância</a></li>
 <li><a href = "javascript/desafios/quantamandioca.js">Quanta Mandioca?</a></li>
 </ol>
+
 # Desafios médios em javascript
 <ol>
 <li><a  href = "javascript/desafios/soma.js">Soma</a></li>
