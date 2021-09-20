@@ -13,3 +13,12 @@
 <li><a href = "javascript/desafios/Visita na feira.js">Visita na feira</a></li>
 <li><a href = "javascript/desafios/"></a></li>
 </ol>
+
+# Projeto: Jogo da memória Javascript
+
+<p>Screenshot</p>
+<img src = "#">
+
+<a href = "github.com/nivandosoares/javscript-memory-game">Repositório</a>
+
+<a href = "javascript-memory-game.vercel.app">Jogue no live preview</a>
